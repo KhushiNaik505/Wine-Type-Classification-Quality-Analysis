@@ -1,10 +1,10 @@
-### 🍷 Wine Type Classification & Quality Analysis using Python
+# 🍷 Wine Type Classification & Quality Analysis using Python
 
 This project explores the chemistry behind wine quality using Python and Pandas in a Google Colab environment. Leveraging a dataset of 6,497 wine samples, the analysis focuses on distinguishing red and white wines while uncovering the chemical factors that influence quality ratings.
 
 The workflow includes data cleaning, handling missing values, and exploratory data analysis (EDA) on 12 key chemical attributes such as alcohol content, pH, volatile acidity, and residual sugar. Through statistical summaries and feature distribution analysis, the project identifies meaningful chemical profiles associated with high-quality wines.
 
-# 🔍 Key Highlights:
+## 🔍 Key Highlights:
 
 Comprehensive EDA on large-scale wine data
 
